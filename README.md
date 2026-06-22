@@ -1,6 +1,6 @@
 # Hi, I'm Rozmuhammad Bakhtiyorov 👋
 
-19 y/o Full-Stack Developer from Uzbekistan 🇺🇿 — I build strange, useful, and interesting web projects and love sharing them here.
+20 y/o Full-Stack Developer from Uzbekistan 🇺🇿 — I build strange, useful, and interesting web projects and love sharing them here.
 
 ---
 
